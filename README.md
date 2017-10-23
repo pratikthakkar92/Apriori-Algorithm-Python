@@ -12,7 +12,9 @@ For example:
 python apriori.py
 
 Enter the Minimum Support Value %: 10
+
 Enter the Minimum Confidence Value %: 40
+
 Enter the name for the Database: Database_1.txt
 
 It should give you the database and the relevant Association Rules that go along with it. 
